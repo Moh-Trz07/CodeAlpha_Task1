@@ -1,5 +1,7 @@
 # CodeAlpha_Task1(HG)
-Python Programming Task 1
+-FIRST TASK FROM Python Programming TASKS ON CodeAlpha by Trouzine Mohammed
+# WHAT I USE:
+ -> List of Words
 # HANGMANE GAME 
        --------
        |      |
